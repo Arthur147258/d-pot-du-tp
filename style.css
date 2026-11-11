@@ -1,4 +1,4 @@
 /* Feuille de style de la page « Le poids caché du web » */
 body {font-family: Arial, Helvetica, sans-serif;color: brown;background-color: aqua;line-height: 2;}
 body {max-width: 800px;margin: 100px;padding: 10px;}
-h1 {color: chartreuse;}
+h1 {color: chartreuse;border-bottom: 1px;}
